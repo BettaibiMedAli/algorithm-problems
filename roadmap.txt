@@ -1,0 +1,91 @@
+Step 1: 
+Get Comfortable with Basic Data Structures
+
+Array & Strings:
+
+Reverse a String
+Two Sum (LeetCode #1)
+Maximum Subarray (LeetCode #53)
+Best Time to Buy and Sell Stock (LeetCode #121)
+Move Zeroes (LeetCode #283)
+
+Hashmaps/HashSets:
+
+Contains Duplicate (LeetCode #217)
+Group Anagrams (LeetCode #49)
+Intersection of Two Arrays II (LeetCode #350)
+Longest Substring Without Repeating Characters (LeetCode #3)
+First Unique Character in a String (LeetCode #387)
+
+Step 2: 
+Practice Basic Algorithms
+
+Sorting & Searching:
+Merge Sorted Array (LeetCode #88)
+Binary Search (LeetCode #704)
+First Bad Version (LeetCode #278)
+Search Insert Position (LeetCode #35)
+Sort Colors (LeetCode #75)
+
+Step 3: 
+Recursion and Backtracking
+
+Fibonacci Number (LeetCode #509)
+Subsets (LeetCode #78)
+Permutations (LeetCode #46)
+Letter Combinations of a Phone Number (LeetCode #17)
+Combination Sum (LeetCode #39)
+
+Step 4: 
+Linked Lists
+
+Reverse a Linked List (LeetCode #206)
+Merge Two Sorted Lists (LeetCode #21)
+Remove Nth Node From End (LeetCode #19)
+Linked List Cycle (LeetCode #141)
+Palindrome Linked List (LeetCode #234)
+
+Step 5: 
+Stacks and Queues
+
+Valid Parentheses (LeetCode #20)
+Implement Queue using Stacks (LeetCode #232)
+Min Stack (LeetCode #155)
+Evaluate Reverse Polish Notation (LeetCode #150)
+Daily Temperatures (LeetCode #739)
+
+Step 6: 
+Dynamic Programming (DP)
+
+Climbing Stairs (LeetCode #70)
+House Robber (LeetCode #198)
+Longest Palindromic Substring (LeetCode #5)
+Coin Change (LeetCode #322)
+Maximum Product Subarray (LeetCode #152)
+
+Step 7: 
+Graphs & Trees
+
+Binary Tree Inorder Traversal (LeetCode #94)
+Lowest Common Ancestor of a Binary Tree (LeetCode #236)
+Number of Islands (LeetCode #200)
+Maximum Depth of Binary Tree (LeetCode #104)
+Invert Binary Tree (LeetCode #226)
+
+Step 8:
+Greedy Algorithms
+
+Coin Change (LeetCode #322)
+Jump Game (LeetCode #55)
+Assign Cookies (LeetCode #455)
+Lemonade Change (LeetCode #860)
+Gas Station (LeetCode #134)
+
+Step 9: 
+Practice Competitive Coding
+
+Add Two Numbers (LeetCode #2)
+Longest Common Prefix (LeetCode #14)
+Product of Array Except Self (LeetCode #238)
+Find the Duplicate Number (LeetCode #287)
+Word Search (LeetCode #79)
