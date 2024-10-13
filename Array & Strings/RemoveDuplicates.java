@@ -1,5 +1,5 @@
 import java.util.*;
-class Solution {
+class RemoveDuplicates {
     public int removeDuplicates(int[] nums) {
         ArrayList<Integer> tab = new ArrayList<>();
         int min = nums[0];

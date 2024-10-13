@@ -8,8 +8,8 @@ Two Sum (LeetCode #1) <Done>
 Valid Palindrome (LeetCode 125) <Done>
 Longest Common Prefix (LeetCode 14) <Done>
 Maximum Subarray (LeetCode #53) <Done>
-Remove Duplicates from Sorted Array (LeetCode 26)
-Best Time to Buy and Sell Stock (LeetCode #121)
+Remove Duplicates from Sorted Array (LeetCode 26) <Done>
+Best Time to Buy and Sell Stock (LeetCode #121) <Done>
 Move Zeroes (LeetCode #283)
 
 Hashmaps/HashSets:
