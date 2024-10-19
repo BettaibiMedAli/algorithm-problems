@@ -18,11 +18,11 @@ Set Matrix Zeroes (LeetCode #73) <Done>
     
 Hashmaps/HashSets:
 
-Contains Duplicate (LeetCode #217)
+Contains Duplicate (LeetCode #217) <Done>
 Group Anagrams (LeetCode #49)
 Intersection of Two Arrays II (LeetCode #350)
 Longest Substring Without Repeating Characters (LeetCode #3)
-First Unique Character in a String (LeetCode #387)
+First Unique Character in a String (LeetCode #387) <Done>
 
 Step 2: 
 Practice Basic Algorithms
