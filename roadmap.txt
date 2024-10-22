@@ -21,7 +21,7 @@ Hashmaps/HashSets:
 Contains Duplicate (LeetCode #217) <Done>
 Group Anagrams (LeetCode #49)
 Intersection of Two Arrays II (LeetCode #350)
-Longest Substring Without Repeating Characters (LeetCode #3)
+Longest Substring Without Repeating Characters (LeetCode #3) <Done>
 First Unique Character in a String (LeetCode #387) <Done>
 
 Step 2: 
