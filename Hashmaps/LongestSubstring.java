@@ -1,24 +1,21 @@
+import java.util.HashSet;
+import java.util.Set;
+
 class LongestSubstring {
     public int lengthOfLongestSubstring(String s) {
-        StringBuilder test = new StringBuilder();
+        Set<Character> test = new HashSet<>();
         int max = 0;
         int j = 0;
-        
+
         for (int i = 0; i < s.length(); i++) {
-            if (test.indexOf(String.valueOf(s.charAt(i))) == -1) {
-                test.append(s.charAt(i));
-            } else {
-                max = Math.max(max, test.length());
-                
-                while (test.indexOf(String.valueOf(s.charAt(i))) != -1) {
-                    test.deleteCharAt(0);
-                    j++;
-                }
-                
-                test.append(s.charAt(i));
+            while (test.contains(s.charAt(i))) {
+                test.remove(s.charAt(j));
+                j++;
             }
+            test.add(s.charAt(i));
+            max = Math.max(max, i - j + 1);
         }
-        max = Math.max(max, test.length());
+        
         return max;
     }
 }
