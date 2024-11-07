@@ -1,5 +1,3 @@
-package Hashmaps;
-
 class FirstUniqChar {
     public int firstUniqChar(String s) {
         int[] frequencies = new int[26];
