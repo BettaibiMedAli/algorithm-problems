@@ -20,7 +20,7 @@ Circular Sentence (LeetCode #2490) <Done>
 Hashmaps/HashSets:
 
 Contains Duplicate (LeetCode #217) <Done>
-Group Anagrams (LeetCode #49)
+Group Anagrams (LeetCode #49) <Done>
 Intersection of Two Arrays II (LeetCode #350)
 Longest Substring Without Repeating Characters (LeetCode #3) <Done>
 First Unique Character in a String (LeetCode #387) <Done>
